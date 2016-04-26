@@ -29,6 +29,14 @@ Exemplos de palavras altamente clicaveis:
 
 Use o [SEMRUSH](http://semrush.com) para analisar os sites dos seus concorrentes.
 
+Além desse você pode obter uma ajuda de:
+
+* [Open Site Explorer](https://moz.com/researchtools/ose/)
+* [Build With](builtwith.com)
+* [Ahrefs]()
+* What runs where
+
+
 3. Construção de links (link building)
 4. Geração de potenciais clientes (Lead Magnet)
 5. Tripwire (Oferta Isca)
